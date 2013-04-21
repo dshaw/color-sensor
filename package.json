@@ -1,0 +1,10 @@
+{
+  "name": "ninja-color-sensor",
+  "version": "0.0.1",
+  "description": "Ninja Blocks Color Sensor Demo",
+  "author": "Ninja Blocks",
+  "license": "BSD",
+  "dependencies": {
+    "johnny-five": "~0.5.14"
+  }
+}
