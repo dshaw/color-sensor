@@ -4,14 +4,14 @@ color-sensor
 Proximity Color Sensor
 
 ---
-# What will we build?
+# What Will We Build?
 _This is a very basic project that combines an ultrasonic sensor with an RGB LED and a 
 photoresistor to roughly estimate the color of nearby objects. We will do all of the programming
 in JavaScript (Node.js), and it will be absolutely wonderful._
 ![complete sensor](http://i.imgur.com/sZn57w3.png)
 
 ---
-# How to get started?
+# How to Get Started?
 _You should make sure you have the following items available before proceeding:_
 
  * Fancy-pants computer with USB ports and everything
