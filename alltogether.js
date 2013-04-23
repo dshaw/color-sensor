@@ -31,7 +31,7 @@ board.on('ready', function() {
 
 	});
 
-	ping = new five.Ping(2);
+	ping = new five.Ping(3);
 
 	ping.on('read', function(err, dat) {
 
